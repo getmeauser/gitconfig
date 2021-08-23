@@ -4,9 +4,9 @@ public class Check {
 
 	public static void main(String[] args) {
 		
-		int x = 5;
-		int y = 7;
-		System.out.print(x+y);;
+		int abc = 5;
+		int def = 7;
+		System.out.print(abc+def);;
 		// TODO Auto-generated method stub
 
 	}
